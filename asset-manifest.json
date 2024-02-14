@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/worldofprogramming/static/css/main.0bc0b66f.css",
+    "main.js": "/worldofprogramming/static/js/main.0fb3b5bb.js",
+    "static/js/592.3e46946c.chunk.js": "/worldofprogramming/static/js/592.3e46946c.chunk.js",
+    "static/media/programming.png": "/worldofprogramming/static/media/programming.184a04dd93f9d5e33009.png",
+    "static/media/error.png": "/worldofprogramming/static/media/error.75d31432b053ee121bd5.png",
+    "static/media/man.jpg": "/worldofprogramming/static/media/man.f33746dfc2cbc3a574ee.jpg",
+    "static/media/wave.png": "/worldofprogramming/static/media/wave.203cbe030d7676fcfc4a.png",
+    "index.html": "/worldofprogramming/index.html",
+    "main.0bc0b66f.css.map": "/worldofprogramming/static/css/main.0bc0b66f.css.map",
+    "main.0fb3b5bb.js.map": "/worldofprogramming/static/js/main.0fb3b5bb.js.map",
+    "592.3e46946c.chunk.js.map": "/worldofprogramming/static/js/592.3e46946c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc0b66f.css",
+    "static/js/main.0fb3b5bb.js"
+  ]
+}
